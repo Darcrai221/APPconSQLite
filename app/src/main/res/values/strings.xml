@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Animes</string>
+    <string name="todo">TODO</string>
+    <string name="name">Dragon Ball Super</string>
+    <string name="score">7</string>
+    <string name="episode">Episodios: 131</string>
+    <string name="description">El dios de la Destrucción ha despertado, y se está dedicando a aniquilar planetas y acaba de descubrir la Tierra. Cuando lo descubre, el guerrero Goku pide ayuda de sus amigos para convertirse en un legendario Super Saiyajin y poder derrotarlo.</string>
+    <string name="form_title">Nuevo Anime</string>
+    <string name="name_url">Url imagen</string>
+    <string name="name_description">Descripción</string>
+    <string name="name_score">Calificación</string>
+    <string name="name_episode">N° Episodio</string>
+    <string name="name_name">Nombre</string>
+    <string name="title_add">Nuevo Anime</string>
+    <string name="title_edit">Datos del Anime</string>
+    <string name="save">Guardar</string>
+</resources>
